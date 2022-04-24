@@ -1,0 +1,7 @@
+/node_modules
+/build
+*.d.ts
+
+lint-staged.js
+tsconfig.json
+craco.config.js
